@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 01-12-2002 t/m 31-12-2002
+Geldend van 01-01-2003 t/m 20-05-2003
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -1069,11 +1069,13 @@ Artikel 174
 
 2.	Bij erfpacht rust de aansprakelijkheid op de bezitter van het erfpachtsrecht. Bij openbare wegen rust zij op het overheidslichaam dat moet zorgen dat de weg in goede staat verkeert, bij leidingen op de leidingbeheerder, behalve voor zover de leiding zich bevindt in een gebouw of werk en strekt tot toevoer of afvoer ten behoeve van dat gebouw of werk.
 
-3.	Onder opstal in dit artikel worden verstaan gebouwen en werken, die duurzaam met de grond zijn verenigd, hetzij rechtstreeks, hetzij door vereniging met andere gebouwen of werken.
+3.	Bij ondergrondse werken rust de aansprakelijkheid op degene die op het moment van het bekend worden van de schade het werk in de uitoefening van zijn bedrijf gebruikt. Indien na het bekend worden van de schade een ander gebruiker wordt, blijft de aansprakelijkheid rusten op degene die ten tijde van dit bekend worden gebruiker was. Indien de schade is bekend geworden na beëindiging van het gebruik van het ondergrondse werk, rust de aansprakelijkheid op degene die de laatste gebruiker was.
 
-4.	Degene die in de openbare registers als eigenaar van de opstal of van de grond staat ingeschreven, wordt vermoed de bezitter van de opstal te zijn.
+4.	Onder opstal in dit artikel worden verstaan gebouwen en werken, die duurzaam met de grond zijn verenigd, hetzij rechtstreeks, hetzij door vereniging met andere gebouwen of werken.
 
-5.	Voor de toepassing van dit artikel wordt onder openbare weg mede begrepen het weglichaam, alsmede de weguitrusting.
+5.	Degene die in de openbare registers als eigenaar van de opstal of van de grond staat ingeschreven, wordt vermoed de bezitter van de opstal te zijn.
+
+6.	Voor de toepassing van dit artikel wordt onder openbare weg mede begrepen het weglichaam, alsmede de weguitrusting.
 
 Artikel 175
 
@@ -1107,17 +1109,19 @@ Artikel 176
 
 Artikel 177
 
-1.	De exploitant van een boorgat is aansprakelijk voor de schade die ontstaat door uitstroming van delfstoffen als bedoeld in artikel 2 van de Wet van 21 april 1810 (Bulletin des Lois 285) als gevolg van het niet beheersen van de ondergrondse natuurkrachten die door de aanleg of bij de exploitatie van het boorgat zijn ontketend.
+1.	De exploitant van een mijnbouwwerk als bedoeld in artikel 1, onderdeel n, van de Mijnbouwwet is aansprakelijk voor de schade die ontstaat door:
+	a.	uitstroming van delfstoffen als bedoeld in artikel 1, onderdeel a, van de Mijnbouwwet als gevolg van het niet beheersen van de ondergrondse natuurkrachten die door de aanleg of bij de exploitatie van het werk zijn ontketend;
+	b.	beweging van de bodem als gevolg van de aanleg of de exploitatie van dat werk.
 
-2.	In dit artikel wordt onder exploitant van een boorgat verstaan:
-	a.	de houder van een concessie als bedoeld in artikel 5 van de Wet van 21 april 1810 (Bulletin des Lois 285), van een vergunning als bedoeld in artikel 2 van de Wet opsporing delfstoffen (Stb. 1967, 258), of van een vergunning of ontheffing als bedoeld in artikel 2 van de Mijnwet continentaal plat (Stb. 1965, 428), die binnen het gebied waarvoor de concessie, de vergunning of de ontheffing geldt, een boorgat aanlegt of doet aanleggen dan wel een boorgat in gebruik heeft;
-	b.	een ieder die, anders dan als ondergeschikte, een boorgat aanlegt of doet aanleggen dan wel een boorgat in gebruik heeft zonder dat hij houder is van een concessie, vergunning of ontheffing als bedoeld onder a, geldend voor de plaats van het boorgat, tenzij hij in opdracht van een ander handelt die houder is van een concessie, vergunning of ontheffing als vorenbedoeld dan wel, indien die ander dat niet is, hij daarmee niet bekend was of behoorde te zijn.
+2.	In dit artikel wordt onder exploitant van een mijnbouwwerk verstaan:
+	a.	de houder van een vergunning als bedoeld in artikel 6 of 25 van de Mijnbouwwet, die een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft;
+	b.	een ieder die, anders dan als ondergeschikte, een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft zonder dat hij houder is van een vergunning als bedoeld in onderdeel a, tenzij hij in opdracht van een ander handelt die houder is van een vergunning als vorenbedoeld dan wel, indien die ander dat niet is, hij daarmee niet bekend was of behoorde te zijn.
 
-3.	Indien na de gebeurtenis waardoor de uitstroming is ontstaan, een ander exploitant wordt van het boorgat, blijft de aansprakelijkheid voor alle schade die door uitstroming als gevolg van die gebeurtenis ontstaat, rusten op degene die ten tijde van die gebeurtenis exploitant was.
+3.	Voor schade door uitstroming van delfstoffen is aansprakelijk degene die ten tijde van de gebeurtenis waardoor de uitstroming plaatsvindt, exploitant van een mijnbouwwerk is. Indien na deze gebeurtenis een ander exploitant wordt van het mijnbouwwerk, blijft de aansprakelijkheid voor deze schade rusten op degene die ten tijde van die gebeurtenis exploitant was. Indien de gebeurtenis plaatsvindt nadat het mijnbouwwerk is verlaten, rust de aansprakelijkheid op degene die de laatste exploitant van het werk was, tenzij op het tijdstip van die gebeurtenis meer dan vijf jaren waren verstreken nadat het werk was verlaten met inachtneming van de geldende overheidsvoorschriften.
 
-4.	Indien de gebeurtenis waardoor de uitstroming is ontstaan, plaatsvindt nadat het boorgat is verlaten, rust de aansprakelijkheid op degene die de laatste exploitant van het boorgat was, tenzij op het tijdstip van die gebeurtenis meer dan vijf jaren waren verstreken nadat het boorgat was verlaten met inachtneming van de geldende overheidsvoorschriften.
+4.	Voor schade door beweging van de bodem is aansprakelijk degene die ten tijde van het bekend worden van deze schade exploitant is. Indien na het bekend worden een ander exploitant wordt, blijft de aansprakelijkheid rusten op degene die ten tijde van dit bekend worden exploitant was. Indien deze schade bekend wordt na sluiting van het mijnbouwwerk, rust de aansprakelijkheid op degene die de laatste exploitant was.
 
-5.	Indien op de gebeurtenis waardoor de uitstroming is ontstaan, tevens een aansprakelijkheid uit artikel 173, 174 of 175 kan worden gegrond, rust die aansprakelijkheid, voor wat betreft de door die uitstroming veroorzaakte schade, op dezelfde persoon als op wie de aansprakelijkheid ter zake van het boorgat rust.
+5.	Indien op de gebeurtenis waardoor de uitstroming of de beweging van de bodem is ontstaan, tevens een aansprakelijkheid uit artikel 173, 174 of 175 kan worden gegrond, rust die aansprakelijkheid, wat betreft de door die uitstroming of beweging van de bodem veroorzaakte schade, op dezelfde persoon als op wie de aansprakelijkheid ter zake van het mijnbouwwerk rust.
 
 Artikel 178
 
@@ -1662,7 +1666,7 @@ Artikel 248
 
 Artikel 249
 
-De rechtsgevolgen van een overeenkomst gelden mede voor de rechtverkrijgenden onder algemene titel, tenzij uit de overeenkomst iets anders voortvloeit.
+De rechtsgevolgen van een overeenkomst gelden mede voor de rechtverkrijgenden onder algemene titel, tenzij uit de overeenkomst iets anders voortvloeit. In het geval van verdeling van een nalatenschap ingevolge artikel 13 van Boek 4 gelden de rechtsgevolgen van de overeenkomst niet mede voor de kinderen van de erflater, tenzij uit de overeenkomst anders voortvloeit.
 
 Artikel 250
 

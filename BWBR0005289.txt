@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 01-07-2008 t/m 14-10-2008
+Geldend van 15-10-2008 t/m 03-11-2009
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -1238,11 +1238,163 @@ Artikel 193
 
 Het recht op schadevergoeding jegens de producent uit hoofde van deze afdeling komt de benadeelde toe, onverminderd alle andere rechten of vorderingen.
 
+Afdeling 3A. Oneerlijke handelspraktijken
+
+Artikel 193a
+
+1.	In deze afdeling wordt verstaan onder:
+	a.	consument: natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf;
+	b.	handelaar: natuurlijk persoon of rechtspersoon die handelt in de uitoefening van een beroep of bedrijf of degene die ten behoeve van hem handelt;
+	c.	product: goed, elektriciteit daaronder begrepen, of dienst;
+	d.	handelspraktijk: iedere handeling, omissie, gedraging, voorstelling van zaken of commerciële communicatie, met inbegrip van reclame en marketing, van een handelaar, die rechtstreeks verband houdt met de verkoopbevordering, verkoop of levering van een product aan consumenten;
+	e.	besluit over een overeenkomst: een door een consument genomen besluit over de vraag of, en, zo ja, hoe en op welke voorwaarden hij een product koopt, geheel of gedeeltelijk betaalt, behoudt of van de hand doet, of een contractueel recht uitoefent in verband met het product, ongeacht of de consument overgaat tot handelen;
+	f.	professionele toewijding: normale niveau van bijzondere vakkundigheid en van zorgvuldigheid dat redelijkerwijs van een handelaar ten aanzien van consumenten mag worden verwacht, in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiend uit de voor die handelaar geldende professionele standaard en eerlijke marktpraktijken;
+	g.	uitnodiging tot aankoop: commerciële boodschap die de kenmerken en de prijs van het product op een aan het gebruikte medium aangepaste wijze vermeldt en de consument aldus in staat stelt een aankoop te doen;
+	h.	ongepaste beïnvloeding: uitbuiten van een machtspositie ten aanzien van de consument om, zelfs zonder gebruik van of dreiging met fysiek geweld, pressie uit te oefenen op een wijze die het vermogen van de consument om een geïnformeerd besluit te nemen, aanzienlijk beperkt;
+	i.	gedragscode: regels die vaststellen hoe handelaren die zich aan de code binden, zich gedragen met betrekking tot een of meer bepaalde handelspraktijken of bedrijfssectoren en die niet bij of krachtens wettelijke voorschriften zijn vastgesteld;
+	j.	houder van een gedragscode: rechtspersoon of groep van handelaren die verantwoordelijk is voor het opstellen en herzien van een gedragscode of het toezien op de naleving van de gedragscode door degenen die zich hieraan hebben gebonden;
+	k.	richtlijn: richtlijn nr. 2005/29/EG van het Europees Parlement en de Raad van de Europese Unie van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt (PbEG L 149).
+
+2.	In deze afdeling wordt mede verstaan onder gemiddelde consument: het gemiddelde lid van een specifieke groep waarop de handelaar zich richt of het gemiddelde lid van een specifieke groep waarvan de handelaar redelijkerwijs kan voorzien dat die groep wegens hun geestelijke of lichamelijke beperking, hun leeftijd of goedgelovigheid bijzonder vatbaar is voor de handelspraktijk of voor het onderliggende product.
+
+3.	Deze afdeling is niet van toepassing op de certificering van goederen van edelmetaal en de vermelding van het edelmetaalgehalte voor deze goederen.
+
+Artikel 193b
+
+1.	Een handelaar handelt onrechtmatig jegens een consument indien hij een handelspraktijk verricht die oneerlijk is.
+
+2.	Een handelspraktijk is oneerlijk indien een handelaar handelt:
+	a.	in strijd met de vereisten van professionele toewijding, en
+	b.	het vermogen van de gemiddelde consument om een geïnformeerd besluit te nemen merkbaar is beperkt of kan worden beperkt,
+
+waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+3.	Een handelspraktijk is in het bijzonder oneerlijk indien een handelaar:
+	a.	een misleidende handelspraktijk verricht als bedoeld in de artikelen 193c tot en met 193g, of
+	b.	een agressieve handelspraktijk verricht als bedoeld in de artikelen 193h en 193i.
+
+4.	De gangbare en rechtmatige reclamepraktijk waarbij overdreven uitspraken worden gedaan of uitspraken die niet letterlijk dienen te worden genomen, maken een reclame op zich niet oneerlijk.
+
+Artikel 193c
+
+1.	Een handelspraktijk is misleidend indien informatie wordt verstrekt die feitelijk onjuist is of die de gemiddelde consument misleidt of kan misleiden, al dan niet door de algemene presentatie van de informatie, zoals ten aanzien van:
+	a.	het bestaan of de aard van het product;
+	b.	de voornaamste kenmerken van het product, zoals beschikbaarheid, voordelen, risico’s, uitvoering, samenstelling, accessoires, klantenservice en klachtenbehandeling, procédé en datum van fabricage of verrichting, levering, geschiktheid voor het gebruik, gebruiksmogelijkheden, hoeveelheid, specificatie, geografische of commerciële oorsprong, van het gebruik te verwachten resultaten, of de resultaten en wezenlijke kenmerken van op het product verrichte tests of controles;
+	c.	de verplichtingen van de handelaar, de motieven voor de handelspraktijk en de aard van het verkoopproces, een verklaring of een symbool in verband met directe of indirecte sponsoring of erkenning van de handelaar of het product;
+	d.	de prijs of de wijze waarop de prijs wordt berekend, of het bestaan van een specifiek prijsvoordeel;
+	e.	de noodzaak van een dienst, onderdeel, vervanging of reparatie;
+	f.	de hoedanigheid, kenmerken en rechten van de handelaar of zijn tussenpersoon, zoals zijn identiteit, vermogen, kwalificaties, status, erkenning, affiliatie, connecties, industriële, commerciële of eigendomsrechten of zijn prijzen, bekroningen en onderscheidingen;
+	g.	de rechten van de consument waaronder het recht van herstel of vervanging van de afgeleverde zaak of het recht om de prijs te verminderen, of de risico’s die de consument eventueel loopt,
+
+waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+2.	Een handelspraktijk is eveneens misleidend indien:
+	a.	door de marketing van het product waaronder het gebruik van vergelijkende reclame verwarring wordt geschapen ten aanzien van producten, handelsmerken, handelsnamen of andere onderscheidende kenmerken van een concurrent;
+	b.	de handelaar een verplichting die is opgenomen in een gedragscode niet nakomt, voor zover:
+
+		1°.	de verplichting concreet en kenbaar is, en
+		2°.	de handelaar aangeeft dat hij aan die gedragscode gebonden is,
+
+waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+Artikel 193d
+
+1.	Een handelspraktijk is bovendien misleidend indien er sprake is van een misleidende omissie.
+
+2.	Een misleidende omissie is iedere handelspraktijk waarbij essentiële informatie welke de gemiddelde consument nodig heeft om een geïnformeerd besluit over een transactie te nemen, wordt weggelaten, waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+3.	Van een misleidende omissie is eveneens sprake indien essentiële informatie als bedoeld in lid 2 verborgen wordt gehouden of op onduidelijke, onbegrijpelijke, dubbelzinnige wijze dan wel laat verstrekt wordt, of het commerciële oogmerk, indien dit niet reeds duidelijk uit de context blijkt, niet laat blijken, waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+4.	Bij de beoordeling of essentiële informatie is weggelaten of verborgen is gehouden worden de feitelijke context, de beperkingen van het communicatiemedium alsook de maatregelen die zijn genomen om de informatie langs andere wegen ter beschikking van de consument te stellen, in aanmerking genomen.
+
+Artikel 193e
+
+In het geval van een uitnodiging tot aankoop is de volgende informatie, voor zover deze niet reeds uit de context blijkt, essentieel als bedoeld in artikel 193d lid 2:
+	a.	de voornaamste kenmerken van het product, in de mate waarin dit gezien het medium en het product passend is;
+	b.	de identiteit en het geografisch adres van de handelaar, zijn handelsnaam en, in voorkomend geval, de identiteit en het geografisch adres van de handelaar namens wie hij optreedt;
+	c.	de prijs, inclusief belastingen, of, als het om een product gaat waarvan de prijs redelijkerwijs niet vooraf kan worden berekend, de manier waarop de prijs wordt berekend en, in voorkomend geval, de extra vracht-, leverings- of portokosten of, indien deze kosten redelijkerwijs niet vooraf kunnen worden berekend, het feit dat deze extra kosten moeten worden betaald;
+	d.	de wijze van betaling, levering, uitvoering en het beleid inzake klachtenbehandeling, indien deze afwijken van de vereisten van professionele toewijding; en
+	e.	indien er een recht op herroeping of annulering is, het bestaan van dit recht.
+
+Artikel 193f
+
+Indien er sprake is van commerciële communicatie, reclame of marketing daaronder begrepen, is de informatie genoemd bij of krachtens de volgende artikelen in ieder geval essentieel als bedoeld in artikel 193d lid 2:
+	a.	artikel 15d leden 1 en 2 en artikel 15e lid 1 van Boek 3;
+	b.	artikel 46c lid 1 van Boek 7;
+	c.	artikel 48f leden 1 en 2 van Boek 7;
+	d.	artikel 501 lid 1 van Boek 7;
+	e.	artikelen 73 tot en met 75 van de Geneesmiddelenwet;
+	f.	artikelen 4:20, 4:73 en 5:13 van de Wet op het financieel toezicht;
+	g.	artikel 2b van de Prijzenwet.
+
+Artikel 193g
+
+De volgende handelspraktijken zijn onder alle omstandigheden misleidend:
+	a.	beweren aan een gedragscode gebonden te zijn en daarnaar te handelen, wanneer dit niet het geval is;
+	b.	een vertrouwens-, kwaliteits- of ander soortgelijk label aanbrengen zonder daarvoor de vereiste toestemming te hebben gekregen;
+	c.	beweren dat een gedragscode door een publieke of andere instantie is erkend wanneer dit niet het geval is;
+	d.	beweren dat een handelaar of een product door een openbare of particuliere instelling is aanbevolen, erkend of goedgekeurd terwijl dat niet het geval is, of iets dergelijks beweren zonder dat aan de voorwaarde voor de aanbeveling, erkenning of goedkeuring is voldaan;
+	e.	producten tegen een genoemde prijs te koop aanbieden zonder dat de handelaar aangeeft dat er een gegrond vermoeden bestaat dat hij deze producten of gelijkwaardige producten niet tegen die prijs kan leveren of door een andere handelaar kan doen leveren gedurende een periode en in hoeveelheden die, rekening houdend met het product, de omvang van de voor het product gevoerde reclame en de aangeboden prijs, redelijk zijn;
+	f.	producten tegen een genoemde prijs te koop aanbieden en vervolgens:
+		1°.	weigeren het aangeboden artikel aan de consument te tonen, of
+		2°.	weigeren een bestelling op te nemen of het product binnen een redelijke termijn te leveren, of
+		3°.	een exemplaar van het artikel met gebreken tonen, met de bedoeling een ander product aan te prijzen;
+	g.	bedrieglijk beweren dat het product slechts gedurende een zeer beperkte tijd beschikbaar zal zijn of dat het slechts onder speciale voorwaarden gedurende een zeer beperkte tijd beschikbaar zal zijn om de consument onmiddellijk te doen beslissen en hem geen kans of onvoldoende tijd te geven een geïnformeerd besluit te nemen;
+	h.	de consument met wie de handelaar voorafgaand aan de transactie heeft gecommuniceerd in een taal die geen officiële taal is van de lidstaat waar de handelaar gevestigd is, beloven een klantendienst te verschaffen en deze dienst vervolgens enkel beschikbaar te stellen in een andere taal zonder dit duidelijk aan de consument te laten weten alvorens de consument de overeenkomst aangaat;
+	i.	beweren of anderszins de indruk wekken dat een product legaal kan worden verkocht terwijl dit niet het geval is;
+	j.	wettelijke rechten van consumenten voorstellen als een onderscheidend kenmerk van het aanbod van de handelaar;
+	k.	redactionele inhoud in de media, waarvoor de handelaar heeft betaald, gebruiken om reclame te maken voor een product, zonder dat dit duidelijk uit de inhoud of uit duidelijk door de consument identificeerbare beelden of geluiden blijkt;
+	l.	feitelijk onjuiste beweringen doen betreffende de aard en de omvang van het gevaar dat de persoonlijke veiligheid van de consument of zijn gezin zou bedreigen indien de consument het product niet koopt;
+	m.	een product dat lijkt op een door een bepaalde fabrikant vervaardigd product op een zodanige wijze aanbevelen dat bij de consument doelbewust de verkeerde indruk wordt gewekt dat het product inderdaad door die fabrikant is vervaardigd, terwijl dit niet het geval is;
+	n.	een piramidesysteem opzetten, beheren of aanbevelen waarbij de consument tegen betaling kans maakt op een vergoeding die eerder voortkomt uit het aanbrengen van nieuwe consumenten in het systeem dan uit de verkoop of het verbruik van goederen;
+	o.	beweren dat de handelaar op het punt staat zijn zaak te beëindigen of te verhuizen, indien dit niet het geval is;
+	p.	beweren dat producten het winnen bij kansspelen kunnen vergemakkelijken;
+	q.	bedrieglijk beweren dat een product ziekten, gebreken of misvormingen kan genezen;
+	r.	feitelijk onjuiste informatie verstrekken over marktomstandigheden of de mogelijkheid het product te bemachtigen met de bedoeling de consument het product te doen aanschaffen tegen voorwaarden die minder gunstig zijn dan de normale marktvoorwaarden;
+	s.	in de context van een handelspraktijk beweren dat er een wedstrijd wordt georganiseerd of prijzen worden uitgeloofd zonder de aangekondigde prijzen of een redelijk alternatief daadwerkelijk toe te kennen;
+	t.	een product als gratis, voor niets of kosteloos te omschrijven als de consument iets anders moet betalen dan de onvermijdelijke kosten om in te gaan op het aanbod en het product af te halen dan wel dit te laten bezorgen;
+	u.	marketingmateriaal voorzien van een factuur of een soortgelijk document waarin om betaling wordt gevraagd, waardoor bij de consument de indruk wordt gewekt dat hij het aangeprezen product al heeft besteld terwijl dat niet het geval is;
+	v.	op bedrieglijke wijze beweren of de indruk wekken dat de handelaar niet optreedt ten behoeve van zijn handel, bedrijf, ambacht of beroep of zich op bedrieglijke wijze voordoen als consument;
+	w.	op bedrieglijke wijze de indruk wekken dat voor een bepaald product service na verkoop beschikbaar is in een andere lidstaat dan die waar het product wordt verkocht.
+
+Artikel 193h
+
+1.	Een handelspraktijk is in haar feitelijke context, al haar kenmerken en omstandigheden in aanmerking genomen, agressief indien door intimidatie, dwang, waaronder het gebruik van lichamelijk geweld, of ongepaste beïnvloeding, de keuzevrijheid of de vrijheid van handelen van de gemiddelde consument met betrekking tot het product aanzienlijk wordt beperkt of kan worden beperkt
+
+waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+2.	Bij de bepaling of een handelspraktijk agressief is, wordt rekening gehouden met:
+	a.	het tijdstip, de plaats, de aard en de vasthoudendheid die bij de handelspraktijk wordt gedemonstreerd;
+	b.	het gebruik van dreigende gedragingen of dreigende of grove taal;
+	c.	het uitbuiten door de handelaar van bepaalde tegenslagen of omstandigheden die zo ernstig zijn dat zij het beoordelingsvermogen van de consument kunnen beperken, hetgeen de handelaar bekend is, met het oogmerk het besluit van de consument met betrekking tot het product te beïnvloeden;
+	d.	bezwarende of disproportionele niet-contractuele belemmeringen die door de handelaar zijn opgelegd ten aanzien van een consument die zijn rechten uit de overeenkomst wenst uit te oefenen waaronder het recht om de overeenkomst te beëindigen of een ander product te kiezen;
+	e.	het dreigen met maatregelen die wettelijk niet kunnen worden genomen.
+
+Artikel 193i
+
+De volgende handelspraktijken zijn onder alle omstandigheden agressief:
+	a.	de indruk geven dat de consument het pand niet mag verlaten alvorens er een overeenkomst is opgesteld;
+	b.	het verzoek van de consument om zijn huis te verlaten of niet meer terug te komen, te negeren, behalve indien, en voor zover wettelijk gerechtvaardigd wordt beoogd een contractuele verplichting te doen naleven;
+	c.	hardnekkig en ongewenst aandringen per telefoon, fax, e-mail of andere afstandsmedia tenzij, voorzover wettelijk gerechtvaardigd, wordt beoogd een contractuele verplichting te doen naleven;
+	d.	een consument die op grond van een verzekeringspolis een vordering indient, om documenten vragen die redelijkerwijs niet relevant kunnen worden geacht om de geldigheid van de vordering te beoordelen, dan wel systematisch weigeren antwoord te geven op daaromtrent gevoerde correspondentie met de bedoeling de consument ervan te weerhouden zijn contractuele rechten uit te oefenen;
+	e.	kinderen in reclame er rechtstreeks toe aanzetten om geadverteerde producten te kopen of om hun ouders of andere volwassenen ertoe over te halen die producten voor hen te kopen;
+	f.	vragen om onmiddellijke dan wel uitgestelde betaling of om terugzending of bewaring van producten die de handelaar heeft geleverd, maar waar de consument niet om heeft gevraagd, tenzij het product een vervangingsgoed is als bedoeld in artikel 46f lid 3 van Boek 7 van het Burgerlijk Wetboek;
+	g.	de consument uitdrukkelijk meedelen dat, als hij het product of de dienst niet koopt, de baan of de bestaansmiddelen van de handelaar in het gedrang komen;
+	h.	de bedrieglijke indruk wekken dat de consument al een prijs heeft gewonnen of zal winnen dan wel door een bepaalde handeling te verrichten een prijs zal winnen of een ander soortgelijk voordeel zal behalen, als er in feite:
+		1°.	geen sprake is van een prijs of een ander soortgelijk voordeel; of
+		2°.	als het ondernemen van stappen om in aanmerking te komen voor de prijs of voor een ander soortgelijk voordeel afhankelijk is van de betaling van een bedrag door de consument of indien daaraan voor hem kosten zijn verbonden.
+
+Artikel 193j
+
+1.	Indien een vordering wordt ingesteld, of een verzoekschrift als bedoeld in artikel 305d lid 1 van Boek 3 wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
+
+2.	Indien op grond van artikel 193b onrechtmatig door de handelaar is gehandeld, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
+
 Afdeling 4. Misleidende en vergelijkende reclame
 
 Artikel 194
 
-Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie hij handelt in de uitoefening van een beroep of bedrijf worden aangeboden, een mededeling openbaar maakt of laat openbaar maken, handelt onrechtmatig, indien deze mededeling in een of meer opzichten misleidend is, zoals ten aanzien van:
+Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie hij handelt in de uitoefening van een beroep of bedrijf worden aangeboden, een mededeling openbaar maakt of laat openbaar maken, handelt onrechtmatig jegens een ander die handelt in de uitoefening van zijn bedrijf, indien deze mededeling in een of meer opzichten misleidend is, zoals ten aanzien van:
 	a.	de aard, samenstelling, hoeveelheid, hoedanigheid, eigenschappen of gebruiksmogelijkheden;
 	b.	de herkomst, de wijze op het tijdstip van vervaardigen;
 	c.	de omvang van de voorraad;
@@ -1258,7 +1410,7 @@ Artikel 194a
 1.	Onder vergelijkende reclame wordt verstaan elke vorm van reclame waarbij een concurrent dan wel door een concurrent aangeboden goederen of diensten uitdrukkelijk of impliciet worden genoemd.
 
 2.	Vergelijkende reclame is, wat de vergelijking betreft, geoorloofd op voorwaarde dat deze:
-	a.	niet misleidend is;
+	a.	niet misleidend of een misleidende handelspraktijk als bedoeld in de artikelen 193c tot en met 193g is;
 	b.	goederen of diensten vergelijkt die in dezelfde behoeften voorzien of voor hetzelfde doel zijn bestemd;
 	c.	op objectieve wijze een of meer wezenlijke, relevante, controleerbare en representatieve kenmerken van deze goederen en diensten, zoals de prijs, met elkaar vergelijkt;
 	d.	er niet toe leidt dat op de markt de adverteerder wordt verward met een concurrent, of de merken, handelsnamen, andere onderscheidende kenmerken, goederen of diensten van de adverteerder met die van een concurrent;

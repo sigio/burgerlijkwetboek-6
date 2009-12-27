@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 04-11-2009 t/m 27-12-2009
+Geldend van 28-12-2009 t/m 31-12-2009
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -1736,6 +1736,61 @@ Artikel 230
 
 2.	Bovendien kan de rechter op verlangen van een der partijen, in plaats van de vernietiging uit te spreken, de gevolgen van de overeenkomst ter opheffing van dit nadeel wijzigen.
 
+Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
+
+Artikel 230a
+
+In deze afdeling wordt verstaan onder:
+	 	afnemer: natuurlijke persoon die onderdaan is van een lidstaat of die rechten heeft die hem door communautaire besluiten zijn verleend, of een rechtspersoon in de zin van artikel 48 van het Verdrag die in een lidstaat is gevestigd en, al dan niet voor beroepsdoeleinden, van een dienst gebruik maakt of wil maken;
+	 	bevoegde instantie: bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;
+	 	centraal loket: het centraal loket, bedoeld in artikel 5, eerste lid, van de Dienstenwet;
+	 	dienst: economische activiteit, anders dan in loondienst, die gewoonlijk tegen vergoeding geschiedt, als bedoeld in artikel 50 van het Verdrag;
+	 	dienstverrichter: natuurlijke persoon die onderdaan is van een lidstaat of een rechtspersoon in de zin van artikel 48 van het Verdrag, die in een lidstaat is gevestigd en die een dienst aanbiedt of verricht;
+	 	lidstaat: lidstaat van de Europese Unie of van de Europese Economische Ruimte;
+	 	vergunning: beslissing, uitdrukkelijk of stilzwijgend, over de toegang tot of de uitoefening van een dienst;
+	 	vergunningstelsel: procedure die voor een dienstverrichter of afnemer de verplichting inhoudt bij een bevoegde instantie stappen te ondernemen ter verkrijging van een vergunning.
+
+Artikel 230b
+
+De dienstverrichter die diensten verricht als bedoeld in richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376), stelt de afnemer van die diensten de volgende gegevens ter beschikking:
+	1.	zijn naam, rechtspositie en rechtsvorm, het geografisch adres waar hij is gevestigd, zijn adresgegevens, zodat de afnemers hem snel kunnen bereiken en rechtstreeks met hem kunnen communiceren, eventueel langs elektronische weg;
+	2.	wanneer de dienstverrichter in een handelsregister of in een vergelijkbaar openbaar register is ingeschreven, de naam van dat register en het nummer waaronder hij is ingeschreven, of gelijkwaardige gegevens uit dat register die ter identificatie dienen;
+	3.	wanneer voor de activiteit een vergunningstelsel geldt, de adresgegevens van de bevoegde instantie of van het centraal loket;
+	4.	wanneer de dienstverrichter een btw-plichtige activiteit uitoefent, het nummer bedoeld in artikel 214, eerste lid, onder a, van Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het Gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347);
+	5.	voor gereglementeerde beroepen: elke beroepsorde of vergelijkbare organisatie waarbij de dienstverrichter is ingeschreven, alsmede de beroepstitel en de lidstaat waar die is verleend;
+	6.	in voorkomend geval, de algemene voorwaarden en bepalingen die de dienstverrichter hanteert;
+	7.	het eventuele bestaan van door de dienstverrichter gehanteerde contractuele bepalingen betreffende het op de overeenkomst toepasselijke recht of de bevoegde rechter;
+	8.	het eventuele bestaan van niet bij wet voorgeschreven garantie na verkoop;
+	9.	de prijs van de dienst wanneer de dienstverrichter de prijs van een bepaald soort dienst vooraf heeft vastgesteld;
+	10.	de belangrijkste kenmerken van de dienst wanneer deze niet uit de context blijken;
+	11.	de in artikel 23, lid 1 van de in de aanhef van dit artikel genoemde richtlijn, bedoelde verzekering of waarborgen, met name de adresgegevens van de verzekeraar of de borg en de geografische dekking;
+	12.	adresgegevens, met name een postadres, faxnummer of e-mailadres en een telefoonnummer, waar alle afnemers, ook die die in andere lidstaten verblijven, een klacht kunnen indienen of informatie over de verrichte dienst kunnen vragen. Indien dit niet hun gebruikelijke correspondentieadres is, wordt hun wettelijke adres verstrekt. Op eventuele klachten wordt zo snel mogelijk gereageerd en alles wordt in het werk gesteld om een bevredigende oplossing te vinden;
+	13.	wanneer een dienstverrichter gebonden is aan een gedragscode of lid is van een handelsvereniging of beroepsorde die voorziet in een regeling voor buitengerechtelijke geschillenbeslechting, wordt dienaangaande informatie verstrekt. De dienstverrichter vermeldt dit in elk document waarin zijn diensten in detail worden beschreven en geeft daarbij aan hoe toegang kan worden verkregen tot gedetailleerde informatie over de kenmerken en toepassingsvoorwaarden van deze regeling.
+
+Artikel 230c
+
+De in artikel 230b bedoelde informatie, naar keuze van de dienstverrichter, bedoeld in artikel 230b, aanhef:
+	1.	wordt op eigen initiatief door de dienstverrichter verstrekt;
+	2.	is voor de afnemer gemakkelijk toegankelijk op de plaats waar de dienst wordt verricht of de overeenkomst wordt gesloten;
+	3.	is voor de afnemer gemakkelijk elektronisch toegankelijk op een door de dienstverrichter meegedeeld adres;
+	4.	is opgenomen in alle door de dienstverrichter aan de afnemer verstrekte documenten waarin deze diensten in detail worden beschreven.
+
+Artikel 230d
+
+De dienstverrichters, bedoeld in artikel 230b, aanhef, verstrekken de afnemer van diensten op diens verzoek de volgende aanvullende informatie:
+	1.	wanneer de dienstverrichter de prijs van een bepaald soort dienst niet vooraf heeft vastgesteld, de prijs van de dienst of, indien de precieze prijs niet kan worden gegeven, de manier waarop de prijs wordt berekend, zodat de afnemer de prijs kan controleren, of een voldoende gedetailleerde kostenraming;
+	2.	voor gereglementeerde beroepen, een verwijzing naar de in de lidstaat van vestiging geldende beroepsregels en de wijze waarop hierin inzage kan worden verkregen;
+	3.	informatie over hun multidisciplinaire activiteiten en partnerschappen die rechtstreeks verband houden met de betrokken dienst, en over de maatregelen die zij ter voorkoming van belangenconflicten hebben genomen. Deze informatie is opgenomen in elk informatiedocument waarin dienstverrichters hun diensten in detail beschrijven;
+	4.	gedragscodes die op dienstverrichters van toepassing zijn, alsmede het adres waar zij elektronisch kunnen worden geraadpleegd en de beschikbare talen waarin deze codes kunnen worden geraadpleegd.
+
+Artikel 230e
+
+De informatie, bedoeld in deze afdeling, is correct, helder en ondubbelzinnig. De informatie wordt tijdig voor de sluiting van een schriftelijke overeenkomst of, indien er geen schriftelijke overeenkomst is, voor de verrichting van de dienst meegedeeld of beschikbaar gesteld.
+
+Artikel 230f
+
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van besluiten op grond van artikel 22, zesde lid, van richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376).
+
 Afdeling 3. Algemene voorwaarden
 
 Artikel 231
@@ -1760,7 +1815,8 @@ Artikel 234
 1.	De gebruiker heeft aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij
 	a.	hetzij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld,
 	b.	hetzij, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel en Fabrieken of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden,
-	c.	hetzij, indien de overeenkomst langs elektronische weg tot stand komt, de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking heeft gesteld op een zodanige wijze dat deze door hem kunnen worden opgeslagen en voor hem toegankelijk zijn ten behoeve van latere kennisneming of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt waar van de voorwaarden langs elektronische weg kan worden kennisgenomen, alsmede dat zij op verzoek langs elektronische weg of op andere wijze zullen worden toegezonden.
+	c.	hetzij, indien de overeenkomst langs elektronische weg tot stand komt, de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking heeft gesteld op een zodanige wijze dat deze door hem kunnen worden opgeslagen en voor hem toegankelijk zijn ten behoeve van latere kennisneming of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt waar van de voorwaarden langs elektronische weg kan worden kennisgenomen, alsmede dat zij op verzoek langs elektronische weg of op andere wijze zullen worden toegezonden,
+	d.	hetzij, indien er sprake is van algemene voorwaarden of bepalingen als bedoeld in artikel 230b onder 6, de voorwaarden op een van de in artikel 230c bedoelde wijzen heeft verstrekt.
 
 2.	Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij zijn ter hand gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt.
 

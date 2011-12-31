@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 01-12-2011 t/m 31-12-2011
+Geldend van 01-01-2012 t/m 30-06-2012
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -1325,11 +1325,10 @@ Artikel 193f
 Indien er sprake is van commerciële communicatie, reclame of marketing daaronder begrepen, is de informatie genoemd bij of krachtens de volgende artikelen in ieder geval essentieel als bedoeld in artikel 193d lid 2:
 	a.	artikel 15d leden 1 en 2 en artikel 15e lid 1 van Boek 3;
 	b.	artikel 46c lid 1 van Boek 7;
-	c.	artikel 48f leden 1 en 2 van Boek 7;
-	d.	artikel 501 lid 1 van Boek 7;
-	e.	artikelen 73 tot en met 75 van de Geneesmiddelenwet;
-	f.	artikelen 4:20, 4:73 en 5:13 van de Wet op het financieel toezicht;
-	g.	artikel 2b van de Prijzenwet.
+	c.	artikel 501 lid 1 van Boek 7;
+	d.	artikelen 73 tot en met 75 van de Geneesmiddelenwet;
+	e.	artikelen 4:20, 4:73 en 5:13 van de Wet op het financieel toezicht;
+	f.	artikel 2b van de Prijzenwet.
 
 Artikel 193g
 
@@ -1806,7 +1805,7 @@ Een beding in algemene voorwaarden is vernietigbaar
 
 Artikel 234
 
-1.	De gebruiker heeft aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel en Fabrieken of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.
+1.	De gebruiker heeft aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld, de voorwaarden overeenkomstig de in artikel 230c voorziene wijze heeft verstrekt of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel en Fabrieken of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.
 
 2.	De gebruiker heeft tevens aan de wederpartij de in artikel 233 onder b bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking heeft gesteld op een zodanige wijze dat deze door haar kunnen worden opgeslagen en voor haar toegankelijk zijn ten behoeve van latere kennisneming of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt waar van de voorwaarden langs elektronische weg kan worden kennisgenomen, alsmede dat zij op verzoek langs elektronische weg of op andere wijze zullen worden toegezonden.
 

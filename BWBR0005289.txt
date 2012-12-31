@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 01-07-2012 t/m 31-12-2012
+Geldend van 01-01-2013 t/m 15-03-2013
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -715,6 +715,10 @@ Artikel 119a
 5.	De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
 
 6.	Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.
+
+Artikel 119b
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 120
 
@@ -1907,7 +1911,7 @@ Artikel 240
 
 Artikel 241
 
-1.	Het Gerechtshof te 's-Gravenhage is bij uitsluiting bevoegd tot kennisneming van vorderingen als in het vorige artikel bedoeld.
+1.	Het gerechtshof Den Haag is bij uitsluiting bevoegd tot kennisneming van vorderingen als in het vorige artikel bedoeld.
 
 2.	De in het vorige artikel bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de artikelen 217 en 376 van het Wetboek van Burgerlijke Rechtsvordering; artikel 379 van dat wetboek is niet van toepassing.
 
@@ -1918,9 +1922,9 @@ Artikel 241
 
 4.	De rechter kan in zijn uitspraak aangeven op welke wijze het onredelijk bezwarend karakter van de bedingen waarop de uitspraak betrekking heeft, kan worden weggenomen.
 
-5.	Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het Gerechtshof te 's-Gravenhage beslist.
+5.	Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.
 
-6.	Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in artikel 240 lid 3, is de voorzieningenrechter van de rechtbank te 's-Gravenhage bij uitsluiting bevoegd. Lid 5, alsmede de artikelen 62, 116 lid 2, 1003, 1005, 1006 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.
+6.	Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in artikel 240 lid 3, is de voorzieningenrechter van de rechtbank Den Haag bij uitsluiting bevoegd. Lid 5, alsmede de artikelen 62, 116 lid 2, 1003, 1005, 1006 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.
 
 Artikel 242
 

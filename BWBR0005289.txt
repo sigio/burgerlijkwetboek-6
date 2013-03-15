@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 01-01-2013 t/m 15-03-2013
+Geldend van 16-03-2013 t/m 31-12-2013
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -556,11 +556,13 @@ Artikel 96
 
 3.	Lid 2 onder b en c is niet van toepassing voor zover in het gegeven geval krachtens artikel 241 van het Wetboek van Burgerlijke Rechtsvordering de regels betreffende de proceskosten van toepassing zijn.
 
-4.	Bij algemene maatregel van bestuur worden nadere regels gesteld voor de vergoeding van kosten als bedoeld in lid 2 onder c. Van deze regels kan niet ten nadele van de schuldenaar worden afgeweken indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf. In dit geval mist artikel 241, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering toepassing.
+4.	In geval van een handelsovereenkomst als bedoeld in artikel 119a lid 1 of artikel 119b lid 1 bestaat de vergoeding van kosten bedoeld in lid 2 onder c uit ten minste een bedrag van 40 euro. Dit bedrag is zonder aanmaning verschuldigd vanaf de dag volgende op de dag waarop de wettelijke of overeengekomen uiterste dag van betaling is verstreken. Hiervan kan niet ten nadele van de schuldeiser worden afgeweken.
 
-5.	De vergoeding volgens de nadere regels als bedoeld in lid 4, eerste volzin, kan indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf, eerst verschuldigd worden nadat de schuldenaar na het intreden van het verzuim, bedoeld in artikel 81 van Boek 6 van het Burgerlijk Wetboek, onder vermelding van de gevolgen van het uitblijven van betaling, waaronder de vergoeding die in overeenstemming met de nadere regels wordt gevorderd, vruchteloos is aangemaand tot betaling binnen een termijn van veertien dagen, aanvangende de dag na aanmaning.
+5.	Bij algemene maatregel van bestuur worden nadere regels gesteld voor de vergoeding van kosten als bedoeld in lid 2 onder c. Van deze regels kan niet ten nadele van de schuldenaar worden afgeweken indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf. In dit geval mist artikel 241, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering toepassing.
 
-6.	Indien een schuldenaar voor meer dan een vordering door een schuldeiser kan worden aangemaand als bedoeld in lid 5, dan dient dit in één aanmaning te geschieden. Voor de berekening van de vergoeding worden de hoofdsommen van deze vorderingen bij elkaar opgeteld.
+6.	De vergoeding volgens de nadere regels kan indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf, eerst verschuldigd worden nadat de schuldenaar na het intreden van het verzuim, bedoeld in artikel 81, onder vermelding van de gevolgen van het uitblijven van betaling, waaronder de vergoeding die in overeenstemming met de nadere regels wordt gevorderd, vruchteloos is aangemaand tot betaling binnen een termijn van veertien dagen, aanvangende de dag na aanmaning.
+
+7.	Indien een schuldenaar voor meer dan een vordering door een schuldeiser kan worden aangemaand als bedoeld in lid 6, dan dient dit in één aanmaning te geschieden. Voor de berekening van de vergoeding worden de hoofdsommen van deze vorderingen bij elkaar opgeteld.
 
 Artikel 97
 
@@ -710,21 +712,51 @@ Artikel 119a
 
 3.	Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.
 
-4.	Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
+4.	De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn overeenkomen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
+	a.	de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;
+	b.	de aard van de prestatie; en
+	c.	elke aanmerkelijke afwijking van goede handelspraktijken.
 
-5.	De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
+5.	Partijen kunnen een uiterste dag van betaling overeenkomen van ten hoogste 60 dagen, tenzij zij uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
+	a.	de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 60 dagen termijn;
+	b.	de aard van de prestatie; en
+	c.	elke aanmerkelijke afwijking van goede handelspraktijken.
 
-6.	Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.
+6.	Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
+
+7.	De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
+
+8.	Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.
 
 Artikel 119b
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	De schadevergoeding, verschuldigd door een overheidsinstantie wegens vertraging in de voldoening van een geldsom, bestaat in geval van een handelsovereenkomst met een overheidsinstantie in de wettelijke rente van die som met ingang van de dag volgend op de dag die is overeengekomen als uiterste dag van betaling tot en met de dag waarop de schuldenaar de geldsom heeft voldaan. Onder overheidsinstantie wordt verstaan de Staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling dan wel een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen als bedoeld in artikel 2 lid 2 van richtlijn nr. 2011/7 van het Europees Parlement en de Raad van 23 februari 2011 betreffende bestrijding van betalingsachterstand bij handelstransacties (PbEU L48/11).
+
+2.	Indien geen uiterste dag van betaling is overeengekomen, is de wettelijke rente van rechtswege verschuldigd:
+	a.	vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of
+	b.	indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of
+	c.	indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.
+
+3.	Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.
+
+4.	De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn in de overeenkomst en aanbestedingsdocumenten opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
+	a.	de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;
+	b.	de aard van de prestatie; en
+	c.	elke aanmerkelijke afwijking van goede handelspraktijken.
+
+5.	Bij overeenkomst kan niet van een uiterste dag van betaling van ten hoogste 30 dagen, overeenkomstig het tweede lid, worden afgeweken, tenzij partijen uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en de bijzondere aard of eigenschappen van de overeenkomst dit objectief rechtvaardigen. De betalingstermijn bedraagt in dat geval ten hoogste 60 dagen.
+
+6.	Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
+
+7.	De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
+
+8.	Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een hogere overeengekomen rente.
 
 Artikel 120
 
 1.	De wettelijke rente bedoeld in artikel 119 wordt bij algemene maatregel van bestuur vastgesteld. Wettelijke rente die loopt op het tijdstip van inwerkingtreding van een nieuwe bij algemene maatregel van bestuur vastgestelde rentevoet, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend.
 
-2.	De wettelijke rente bedoeld in artikel 119a is gelijk aan de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden voor de eerste kalenderdag van het betreffende halfjaar, vermeerderd met zeven procentpunten. Wettelijke rente die loopt op de eerste dag van het betreffende halfjaar, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend gedurende een half jaar.
+2.	De wettelijke rente bedoeld in artikel 119a en artikel 119b is gelijk aan de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden voor de eerste kalenderdag van het betreffende halfjaar, vermeerderd met acht procentpunten. Wettelijke rente die loopt op de eerste dag van het betreffende halfjaar, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend gedurende een half jaar.
 
 Artikel 121
 

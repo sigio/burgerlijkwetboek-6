@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 01-07-2017 t/m 31-08-2017
+Geldend van 01-09-2017 t/m 30-06-2018
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -854,7 +854,7 @@ Een schuldenaar is niet bevoegd tot verrekening:
 
 Artikel 136
 
-De rechter kan een vordering ondanks een beroep van de gedaagde op verrekening toewijzen, indien de gegrondheid van dit verweer niet op eenvoudige wijze is vast te stellen en de vordering overigens voor toewijzing vatbaar is.
+De rechter kan een vordering ondanks een beroep van de verweerder op verrekening toewijzen, indien de gegrondheid van dit verweer niet op eenvoudige wijze is vast te stellen en de vordering overigens voor toewijzing vatbaar is.
 
 Artikel 137
 
@@ -1441,7 +1441,7 @@ De volgende handelspraktijken zijn onder alle omstandigheden agressief:
 
 Artikel 193j
 
-1.	Indien een vordering wordt ingesteld, of een verzoekschrift als bedoeld in artikel 305d lid 1 onder a van Boek 3 wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
+1.	Indien een vordering wordt ingesteld, of een verzoek als bedoeld in artikel 305d lid 1 onder a van Boek 3 wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
 
 2.	Indien op grond van artikel 193b onrechtmatig door de handelaar is gehandeld, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
 
@@ -2470,7 +2470,7 @@ Kan een partij bij een overeenkomst ter afwering van haar aansprakelijkheid voor
 
 Artikel 258
 
-1.	De rechter kan op verlangen van een der partijen de gevolgen van een overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden op grond van onvoorziene omstandigheden welke van dien aard zijn dat de wederpartij naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van de overeenkomst niet mag verwachten. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
+1.	De rechter kan op vordering van een der partijen de gevolgen van een overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden op grond van onvoorziene omstandigheden welke van dien aard zijn dat de wederpartij naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van de overeenkomst niet mag verwachten. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
 
 2.	Een wijziging of ontbinding wordt niet uitgesproken, voor zover de omstandigheden krachtens de aard van de overeenkomst of de in het verkeer geldende opvattingen voor rekening komen van degene die zich erop beroept.
 
@@ -2478,11 +2478,27 @@ Artikel 258
 
 Artikel 259
 
-1.	Indien een overeenkomst ertoe strekt een rechthebbende op of een gebruiker van een registergoed als zodanig te verplichten tot een prestatie die niet bestaat in of gepaard gaat met het dulden van voortdurend houderschap, kan de rechter op zijn verlangen de gevolgen van de overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden:
+1.	Indien een overeenkomst ertoe strekt een rechthebbende op of een gebruiker van een registergoed als zodanig te verplichten tot een prestatie die niet bestaat in of gepaard gaat met het dulden van voortdurend houderschap, kan de rechter op zijn vordering de gevolgen van de overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden:
 	a.	indien ten minste tien jaren na het sluiten van de overeenkomst zijn verlopen en het ongewijzigd voortduren van de verplichting in strijd is met het algemeen belang;
 	b.	indien de schuldeiser bij de nakoming van de verplichting geen redelijk belang meer heeft en het niet aannemelijk is dat dit belang zal terugkeren.
 
 2.	Voor de termijn vermeld in lid 1 onder a telt mee de gehele periode waarin rechthebbende op of gebruikers van het goed aan een beding van dezelfde strekking gebonden zijn geweest. De termijn geldt niet, voor zover de strijd met het algemeen belang hierin bestaat dat het beding een beletsel vormt voor verwerkelijking van een geldend bestemmingsplan.
+
+Artikel 260
+
+[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
+
+1.	Een wijziging of ontbinding als bedoeld in de artikelen 258 en 259 kan worden uitgesproken onder door de rechter te stellen voorwaarden.
+
+2.	Indien hij op grond van die artikelen de overeenkomst wijzigt of gedeeltelijk ontbindt, kan hij bepalen dat een of meer der partijen de overeenkomst binnen een bij de uitspraak vast te stellen termijn door een schriftelijke verklaring geheel zal kunnen ontbinden. De wijziging of gedeeltelijke ontbinding treedt niet in, voordat deze termijn is verstreken.
+
+3.	Is de overeenkomst die op grond van de artikelen 258 en 259 wordt gewijzigd of geheel of gedeeltelijk ontbonden, ingeschreven in de openbare registers, dan kan ook de uitspraak waarbij de wijziging of ontbinding plaatsvond, daarin worden ingeschreven, mits deze uitspraak in kracht van gewijsde is gegaan of uitvoerbaar bij voorraad is.
+
+4.	Wordt ter zake van een verplichting als bedoeld in artikel 252 bij iemand een oproepingsbericht bezorgd of betekend aan zijn overeenkomstig lid 2, eerste zin, van dat artikel gekozen woonplaats, dan zijn daarmee tevens opgeroepen al zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. Artikel 29 lid 2 en lid 3, tweede tot en met vierde zin, van Boek 3 zijn van overeenkomstige toepassing.
+
+5.	Andere rechtsfeiten die een ingeschreven overeenkomst wijzigen of beëindigen, zijn eveneens inschrijfbaar, voor zover het rechterlijke uitspraken betreft mits zij in kracht van gewijsde zijn gegaan of uitvoerbaar bij voorraad zijn.
+
+[Red: Voor overige gevallen luidt het artikel als volgt:]
 
 Artikel 260
 

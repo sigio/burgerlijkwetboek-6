@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 01-01-2017 t/m 09-02-2017
+Geldend van 10-02-2017 t/m 09-03-2017
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -1444,6 +1444,78 @@ Artikel 193j
 2.	Indien op grond van artikel 193b onrechtmatig door de handelaar is gehandeld, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
 
 3.	Een overeenkomst die als gevolg van een oneerlijke handelspraktijk tot stand is gekomen, is vernietigbaar.
+
+Afdeling 3B. Schending van mededingingsrecht
+
+Artikel 193k
+
+In deze afdeling wordt verstaan onder:
+	a.	inbreuk op het mededingingsrecht: een inbreuk op artikel 101 of 102 van het Verdrag betreffende de Werking van de Europese Unie of het mededingingsrecht van een lidstaat van de Europese Unie dat parallel wordt toegepast aan artikel 101 of 102 van het Verdrag betreffende de Werking van de Europese Unie overeenkomstig artikel 3, eerste lid, van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2003 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003 L 1);
+	b.	inbreukpleger: een onderneming of ondernemersvereniging die een inbreuk op het mededingingsrecht heeft gepleegd;
+	c.	mededingingsautoriteit: de Europese Commissie, of een overeenkomstig artikel 35 van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2003 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003 L 1) door een lidstaat aangewezen autoriteit die bevoegd is de artikelen 101 en 102 van het Verdrag betreffende de Werking van de Europese Unie toe te passen, of beide, indien de omstandigheden dit vereisen;
+	d.	kartel: een overeenkomst of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel hun concurrentiegedrag op de markt te coördineren of de relevante parameters van mededinging te beïnvloeden via praktijken zoals onder meer, doch niet uitsluitend, het bepalen of coördineren van aan- of verkoopprijzen of andere contractuele voorwaarden, onder meer met betrekking tot intellectuele-eigendomsrechten, de toewijzing van productie- of verkoopquota, de verdeling van markten en klanten, met inbegrip van offertevervalsing, het beperken van importen of exporten of mededingingsverstorende maatregelen tegen andere concurrenten;
+	e.	ontvanger van immuniteit: een onderneming waaraan of een natuurlijk persoon aan wie door een mededingingsautoriteit in het kader van een clementieregeling vrijwaring van geldboetes is verleend;
+	f.	clementieregeling: een regeling met betrekking tot de toepassing van artikel 101 van het Verdrag betreffende de Werking van de Europese Unie of een overeenkomstige bepaling in het nationale recht van een lidstaat van de Europese Unie op basis waarvan een deelnemer aan een geheim kartel onafhankelijk van de andere bij het kartel betrokken ondernemingen meewerkt aan een onderzoek van een mededingingsautoriteit door vrijwillig informatie te verschaffen over de kennis die deze deelnemer heeft van het kartel en de rol die hij daarin speelt, in ruil waarvoor de deelnemer, op grond van een besluit of door de procedure stop te zetten, immuniteit wordt verleend tegen geldboetes voor betrokkenheid bij het kartel of een vermindering van deze boetes krijgt;
+	g.	meerkosten: het verschil tussen de daadwerkelijk betaalde prijs en de prijs die zonder de inbreuk op het mededingingsrecht van toepassing was geweest;
+	h.	directe afnemer: een natuurlijk persoon of rechtspersoon die rechtstreeks van een inbreukpleger producten of diensten heeft verworven die het voorwerp waren van een inbreuk op het mededingingsrecht;
+	i.	indirecte afnemer: een natuurlijk persoon of rechtspersoon die niet van een inbreukpleger maar van een directe afnemer of een volgende afnemer producten of diensten heeft verworven die het voorwerp waren van een inbreuk op het mededingingsrecht, of producten of diensten waarin deze zijn verwerkt of die daarvan zijn afgeleid.
+
+Artikel 193l
+
+Een kartel, dat een inbreuk op het mededingingsrecht vormt, wordt vermoed schade te veroorzaken.
+
+Artikel 193m
+
+1.	Indien ondernemingen door een gemeenschappelijk optreden een inbreuk hebben gepleegd op het mededingingsrecht, is elk van hun voor het geheel van de door de inbreuk veroorzaakte schade aansprakelijk.
+
+2.	Mits volledige vergoeding van schade kan worden verkregen van de andere bij de inbreuk betrokken ondernemingen, is in afwijking van het bepaalde in lid 1 een kleine of middelgrote onderneming als bedoeld in Aanbeveling 2003/361/EG van de Europese Commissie die een inbreuk op het mededingingsrecht heeft gepleegd slechts jegens zijn directe en indirecte afnemers aansprakelijk, indien:
+	a.	haar marktaandeel op de relevante markt tijdens de inbreuk voortdurend minder dan vijf procent bedroeg, en
+	b.	de toepassing van lid 1 haar economische levensvatbaarheid onherstelbaar in gevaar zou brengen en haar vermogensbestanddelen al hun waarde zou doen verliezen.
+
+3.	Lid 2 mist toepassing indien de onderneming:
+	a.	een leidinggevende rol heeft gespeeld bij de inbreuk of andere ondernemingen heeft aangezet hieraan deel te nemen, of
+	b.	eerder schuldig is bevonden aan een inbreuk op het mededingingsrecht.
+
+4.	In afwijking van het bepaalde in lid 1 is een ontvanger van immuniteit slechts jegens zijn directe en indirecte afnemers en leveranciers hoofdelijk verbonden tot vergoeding van de schade die voortvloeit uit de inbreuk, tenzij geen volledige vergoeding van schade kan worden verkregen van de andere bij de inbreuk betrokken ondernemingen.
+
+Artikel 193n
+
+De bijdrage van een ontvanger van immuniteit in de onderlinge verhouding met de andere bij de inbreuk betrokken inbreukplegers aan de vergoeding van de schade van hun directe en indirecte afnemers en leveranciers, bedraagt ten hoogste de vergoeding van de schade van zijn directe en indirecte afnemers en leveranciers, in evenredigheid met de mate waarin de aan hem toe te rekenen omstandigheden tot de schade hebben bijgedragen.
+
+Artikel 193o
+
+1.	Na een schikking wordt de vordering tot schadevergoeding van de bij de schikking betrokken benadeelde verminderd met het aandeel dat de bij de schikking betrokken inbreukpleger heeft gehad in de schade die de benadeelde door de inbreuk op het mededingingsrecht heeft geleden.
+
+2.	Een bij een schikking betrokken benadeelde kan alleen een niet bij de schikking betrokken inbreukpleger aanspreken voor de vergoeding van de na de schikking resterende vordering tot schadevergoeding. De niet bij de schikking betrokken inbreukpleger kan met betrekking tot deze vordering tot schadevergoeding geen bijdrage vorderen van de bij de schikking betrokken inbreukpleger.
+
+3.	Indien niet bij een schikking betrokken inbreukplegers na een schikking niet bij machte zijn om de met de resterende vordering tot schadevergoeding overeenstemmende schade van een bij de schikking betrokken benadeelde te vergoeden, is de bij de schikking betrokken inbreukpleger ook aansprakelijk voor deze schade.
+
+4.	Lid 3 mist toepassing indien uitdrukkelijk anders is bepaald in de voorwaarden van de schikking.
+
+Artikel 193p
+
+Een partij kan het verweer voeren dat de benadeelde de door de inbreuk op het mededingingsrecht veroorzaakte meerkosten heeft doorberekend.
+
+Artikel 193q
+
+Een indirecte afnemer wordt vermoed het bewijs van doorberekening te hebben geleverd indien hij aantoont dat:
+	a.	de inbreukpleger een inbreuk op het mededingingsrecht heeft gepleegd,
+	b.	de inbreuk heeft geleid tot meerkosten voor de directe afnemer van de inbreukpleger, en
+	c.	de indirecte afnemer de goederen of diensten heeft verworven die het voorwerp waren van de inbreuk, of goederen of diensten waarin deze zijn verwerkt of die daarvan zijn afgeleid.
+
+Artikel 193r
+
+De rechter kan een procedure waarin vergoeding van schade wordt gevorderd wegens een inbreuk op het mededingingsrecht voor ten hoogste twee jaar aanhouden, indien partijen betrokken zijn bij buitengerechtelijke geschillenbeslechting in verband met die vordering.
+
+Artikel 193s
+
+Een rechtsvordering tot vergoeding van schade door een inbreuk op het mededingingsrecht verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de inbreuk is stopgezet en de benadeelde met de inbreuk, de schade die hij dientengevolge lijdt en de daarvoor aansprakelijke persoon bekend is geworden of redelijkerwijs bekend kan worden geacht, en in ieder geval door verloop van twintig jaren na de aanvang van de dag volgende op die waarop de inbreuk is stopgezet.
+
+Artikel 193t
+
+1.	Een procedure tot buitengerechtelijke geschillenbeslechting is een grond voor verlenging van de verjaringstermijn tussen de daarbij betrokken partijen. In geval van mediation eindigt de procedure doordat een van de partijen of de mediator aan de andere partij schriftelijk heeft meegedeeld dat de mediation is geëindigd of doordat in de mediation gedurende een periode van zes maanden door geen van de partijen enige handeling is verricht.
+
+2.	Een handeling van een mededingingsautoriteit verricht in het kader van een onderzoek of procedure met betrekking tot de inbreuk op het mededingingsrecht waarop de rechtsvordering betrekking heeft, is een grond voor verlenging van de verjaringstermijn. De verlenging vangt aan de dag na het verstrijken van de verjaringstermijn. De duur van de verlenging is gelijk aan de periode benodigd voor de vaststelling van een definitieve inbreukbeslissing of het op andere wijze beëindigen van de procedure, vermeerderd met een jaar.
 
 Afdeling 4. Misleidende en vergelijkende reclame
 

@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 6
-Geldend van 19-09-2018 t/m 31-12-2018
+Geldend van 01-01-2019 t/m 31-03-2019
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -543,7 +543,9 @@ Afdeling 10. Wettelijke verplichtingen tot schadevergoeding
 
 Artikel 95
 
-De schade die op grond van een wettelijke verplichting tot schadevergoeding moet worden vergoed, bestaat in vermogensschade en ander nadeel, dit laatste voor zover de wet op vergoeding hiervan recht geeft.
+1.	De schade die op grond van een wettelijke verplichting tot schadevergoeding moet worden vergoed, bestaat in vermogensschade en ander nadeel, dit laatste voor zover de wet op vergoeding hiervan recht geeft.
+
+2.	Het recht op een vergoeding voor nadeel dat niet in vermogensschade bestaat, is niet vatbaar voor beslag. Voor overgang onder algemene titel is voldoende dat de gerechtigde aan de wederpartij heeft medegedeeld op de vergoeding aanspraak te maken.
 
 Artikel 96
 
@@ -608,18 +610,31 @@ Artikel 105
 
 Artikel 106
 
-1.	Voor nadeel dat niet in vermogensschade bestaat, heeft de benadeelde recht op een naar billijkheid vast te stellen schadevergoeding:
+Voor nadeel dat niet in vermogensschade bestaat, heeft de benadeelde recht op een naar billijkheid vast te stellen schadevergoeding:
 	a.	indien de aansprakelijke persoon het oogmerk had zodanig nadeel toe te brengen;
 	b.	indien de benadeelde lichamelijk letsel heeft opgelopen, in zijn eer of goede naam is geschaad of op andere wijze in zijn persoon is aangetast;
 	c.	indien het nadeel gelegen is in aantasting van de nagedachtenis van een overledene en toegebracht is aan de niet van tafel en bed gescheiden echtgenoot, de geregistreerde partner of een bloedverwant tot in de tweede graad van de overledene, mits de aantasting plaatsvond op een wijze die de overledene, ware hij nog in leven geweest, recht zou hebben gegeven op schadevergoeding wegens het schaden van zijn eer of goede naam.
 
-2.	Het recht op een vergoeding, als in het vorige lid bedoeld, is niet vatbaar voor overgang en beslag, tenzij het bij overeenkomst is vastgelegd of ter zake een vordering in rechte is ingesteld. Voor overgang onder algemene titel is voldoende dat de gerechtigde aan de wederpartij heeft medegedeeld op de vergoeding aanspraak te maken.
-
 Artikel 107
 
-1.	Indien iemand ten gevolge van een gebeurtenis waarvoor een ander aansprakelijk is, lichamelijk of geestelijk letsel oploopt, is die ander behalve tot vergoeding van de schade van de gekwetste zelf, ook verplicht tot vergoeding van de kosten die een derde anders dan krachtens een verzekering ten behoeve van de gekwetste heeft gemaakt en die deze laatste, zo hij ze zelf zou hebben gemaakt, van die ander had kunnen vorderen.
+1.	Indien iemand ten gevolge van een gebeurtenis waarvoor een ander aansprakelijk is, lichamelijk of geestelijk letsel oploopt, is die ander behalve tot vergoeding van de schade van de gekwetste zelf, ook verplicht tot vergoeding van:
+	a.	de kosten die een derde anders dan krachtens een verzekering ten behoeve van de gekwetste heeft gemaakt en die deze laatste, zo hij ze zelf zou hebben gemaakt, van die ander had kunnen vorderen; en
+	b.	een bij of krachtens algemene maatregel van bestuur vast te stellen bedrag of bedragen voor nadeel dat niet in vermogensschade bestaat geleden door de in lid 2 genoemde naasten van de gekwetste met ernstig en blijvend letsel.
 
-2.	Hij die krachtens het vorige lid door de derde tot schadevergoeding wordt aangesproken kan hetzelfde verweer voeren dat hem jegens de gekwetste ten dienste zou hebben gestaan.
+2.	De naasten, bedoeld in lid 1 onder b, zijn:
+	a.	de ten tijde van de gebeurtenis niet van tafel en bed gescheiden echtgenoot of geregistreerde partner van de gekwetste;
+	b.	de levensgezel van de gekwetste, die ten tijde van de gebeurtenis duurzaam met deze een gemeenschappelijke huishouding voert;
+	c.	degene die ten tijde van de gebeurtenis de ouder van de gekwetste is;
+	d.	degene die ten tijde van de gebeurtenis het kind van de gekwetste is;
+	e.	degene die ten tijde van de gebeurtenis duurzaam in gezinsverband de zorg voor de gekwetste heeft;
+	f.	degene voor wie de gekwetste ten tijde van de gebeurtenis duurzaam in gezinsverband de zorg heeft;
+	g.	een andere persoon die in een zodanige nauwe persoonlijke relatie tot de gekwetste staat, dat uit de eisen van redelijkheid en billijkheid voortvloeit dat hij voor de toepassing van lid 1 onder b als naaste wordt aangemerkt.
+
+3.	Bij algemene maatregel van bestuur kunnen regels worden gesteld waarmee nader wordt bepaald wanneer letsel als ernstig en blijvend letsel als bedoeld in lid 1 onder b wordt aangemerkt.
+
+4.	Onverminderd artikel 6, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen kunnen aanspraken van derden ter zake van als gevolg van het letsel geleden schade niet ten nadele van het recht op schadevergoeding van de gekwetste worden uitgeoefend.
+
+5.	Hij die krachtens lid 1 tot schadevergoeding wordt aangesproken kan hetzelfde verweer voeren dat hem jegens de gekwetste ten dienste zou hebben gestaan.
 
 Artikel 107a
 
@@ -641,7 +656,20 @@ Artikel 108
 
 2.	Bovendien is de aansprakelijke verplicht aan degene te wiens laste de kosten van lijkbezorging zijn gekomen, deze kosten te vergoeden, voor zover zij in overeenstemming zijn met de omstandigheden van de overledene.
 
-3.	Hij die krachtens de vorige leden tot schadevergoeding wordt aangesproken, kan hetzelfde verweer voeren, dat hem tegenover de overledene zou hebben ten dienste gestaan.
+3.	Voorts is de aansprakelijke verplicht tot vergoeding van een bij of krachtens algemene maatregel van bestuur vast te stellen bedrag of bedragen voor nadeel dat niet in vermogensschade bestaat, geleden door de in lid 4 genoemde naasten als gevolg van het overlijden.
+
+4.	De naasten, bedoeld in lid 3, zijn:
+	a.	de ten tijde van de gebeurtenis niet van tafel en bed gescheiden echtgenoot of geregistreerde partner van de overledene;
+	b.	de levensgezel van de overledene, die ten tijde van de gebeurtenis duurzaam met deze een gemeenschappelijke huishouding voert;
+	c.	degene die ten tijde van de gebeurtenis ouder van de overledene is;
+	d.	degene die ten tijde van de gebeurtenis het kind van de overledene is;
+	e.	degene die ten tijde van de gebeurtenis duurzaam in gezinsverband de zorg voor de overledene heeft;
+	f.	degene voor wie de overledene ten tijde van de gebeurtenis duurzaam in gezinsverband de zorg heeft;
+	g.	een andere persoon die ten tijde van de gebeurtenis in een zodanige nauwe persoonlijke relatie tot de overledene staat, dat uit de eisen van redelijkheid en billijkheid voortvloeit dat hij voor de toepassing van lid 3 als naaste wordt aangemerkt.
+
+5.	Hij die krachtens de vorige leden tot schadevergoeding wordt aangesproken, kan hetzelfde verweer voeren, dat hem tegenover de overledene zou hebben ten dienste gestaan.
+
+6.	Geen recht op vergoeding van de in lid 3 bedoelde schade bestaat, voor zover de rechthebbende op grond van dezelfde gebeurtenis reeds een vergoeding uit hoofde van artikel 107 lid 1 onder b heeft ontvangen.
 
 Artikel 109
 
